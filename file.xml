@@ -1,5 +1,5 @@
-<TESTCASES>
-    <TEST URI="cases/xmlnsquote.xml" TYPE="not-wf">issue 152</TEST>
-    <TEST URI="cases/quote.xml" TYPE="not-wf"/>
-    <TEST URI="cases/autosar.xml" TYPE="valid"/>
-</TESTCASES>
+<testcases>
+    <test uri="cases/xmlnsquote.xml" type="not-wf">issue 152</test>
+    <test uri="cases/quote.xml" type="not-wf"/>
+    <test uri="cases/autosar.xml" type="valid"/>
+</testcases>

@@ -5,7 +5,6 @@
 	Writing my own struct and implementing a trait.
 	
 ## xml test
-	```
 	╭[simmi@xubu] ~/Projects/rust/playground
 	╰─> cargo run                                          on branch main
 	   Compiling playground v0.1.0 (/home/simmi/Projects/rust/playground)
@@ -27,4 +26,3 @@
 	}
 	╭[simmi@xubu] ~/Projects/rust/playground
 	╰─>                                                    on branch main
-	```
